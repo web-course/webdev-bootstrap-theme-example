@@ -1,0 +1,23 @@
+{
+  "name": "webdev-bootstrap-theme-example",
+  "version": "0.0.1",
+  "homepage": "https://github.com/web-course",
+  "authors": [
+    "Jaime Chavarriaga"
+  ],
+  "description": "An example using a Bootstrap Theme",
+  "keywords": [
+    "example"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "pages",
+    "index.html"
+  ],
+  "dependencies": {
+    "webdev-bootstrap-theme": "https://github.com/web-course/webdev-bootstrap-theme.git"
+  }
+}
