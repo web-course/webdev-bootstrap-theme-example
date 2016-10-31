@@ -16,8 +16,8 @@ To install the dependencies, you may run `bower`
 ## How it works
 
 The project includes a `bower.json` file describing the dependencies.
-For one of the components, it specifies the Github repository where the component may be downloaded.
-The `bower` will download the component and all its dependencies to the `bower_components` folder.
+For one of the components, it specifies the Github repository where the component may be downloaded
+The `bower` will download the component and all its dependencies to the `bower_components` folder
 
 ```json
 {
